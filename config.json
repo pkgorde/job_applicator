@@ -1,0 +1,18 @@
+{
+    "user_details": {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "phone": "555-123-4567",
+        "resume_path": "/app/data/resume.pdf"
+    },
+    "job_criteria": {
+        "title": "Software Engineer",
+        "location": "San Francisco",
+        "experience": 1
+    },
+    "domains": [
+        "greenhouse.io",
+        "lever.co"
+    ],
+    "output_dir": "/app/output"
+}
